@@ -16,7 +16,7 @@ This project is a simple application that allows users to download YouTube playl
 
 1. Clone the repository:
    ```
-   git clone <repository-url>
+   git clone https://github.com/alimahmoud-s/YouTube-Playlist-Downloader.git
    ```
 2. Navigate to the project directory:
    ```
