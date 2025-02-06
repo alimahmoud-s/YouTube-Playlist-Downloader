@@ -1,16 +1,16 @@
-##YouTube Downloader App
+# YouTube Downloader App
 
-#This project is a simple application that allows users to download YouTube playlists using the yt-dlp library. It prompts the user for a playlist URL and handles the download process with error handling.
+This project is a simple application that allows users to download YouTube playlists using the yt-dlp library. It prompts the user for a playlist URL and handles the download process with error handling.
 
-##Features
+# Features
 
-#Download entire YouTube playlists
+ Download entire YouTube playlists
 
-#Download videos in preferred resolution (480p, 720p, 1080p, etc.)
+Download videos in preferred resolution (480p, 720p, 1080p, etc.)
 
-#Download audio-only versions of videos
+Download audio-only versions of videos
 
-#Supports concurrent fragment downloads for faster performance
+Supports concurrent fragment downloads for faster performance
 
 Allows users to specify a proxy for restricted network environments
 
@@ -20,13 +20,13 @@ Custom save directory selection
 
 Error handling for download issues
 
-Requirements
+# Requirements
 
 Python 3.x
 
 yt-dlp library
 
-Installation
+# Installation
 
 Clone the repository:
 
@@ -40,7 +40,7 @@ Install the required dependencies:
 
 pip install -r requirements.txt
 
-Usage
+# Usage
 
 Run the application:
 
